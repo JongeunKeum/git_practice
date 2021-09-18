@@ -2,8 +2,7 @@
 
 ## git 사용법
 
-커밋을 하자
+branch를 생성했다 -> first
 
-한 번 더 하자
-
-한 번만 더 하자
+add comment 1
+add comment 2
